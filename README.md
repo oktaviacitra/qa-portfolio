@@ -14,7 +14,7 @@ Unit testing is a type of software testing that focuses on testing the smallest 
 Snapshot testing is a software testing method used primarily to test the user interface (UI) by comparing a newly taken snapshot with a previously saved snapshot. If there are differences, developers can check to see if the changes indicate a bug. This method helps ensure that changes in the code do not inadvertently change the appearance or behavior of the approved UI.
 
 > [!NOTE]
-> Onboarding.swift
+> OnboardingView.swift
 
 ##  Testing
 
